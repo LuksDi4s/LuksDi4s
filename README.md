@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou Lucas Dias, um desenvolvedor full stack em aprendizado!</h1>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/lucas-said-dev"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lucas-said-dev"><img src="https://img.shields.io/badge/-Lucas%20Dias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 </p>
 
