@@ -30,4 +30,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuksDi4s&show_icons=true&theme=dracula)
