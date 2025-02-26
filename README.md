@@ -24,6 +24,7 @@
 ![Tailwind-CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
 
 <h3>⚙️ &nbsp;Back-end</h3>
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
