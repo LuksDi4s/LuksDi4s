@@ -21,7 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
-![Tailwind-CSS](https://img.shields.io/badge/-Tailwind-CSS-333333?style=flat&logo=tailwindcss)
+![Tailwind-CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
 
 <h3>⚙️ &nbsp;Back-end</h3>
 
